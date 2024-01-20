@@ -1,0 +1,7 @@
+{
+    "production": true,
+    "apiLoginEndpoint": "https://serene-sea-70010.herokuapp.com/",
+    "apiProductsEndpoint": "https://mysterious-temple-42238.herokuapp.com/",
+    "apiGradlePosts": "https://api-gradle-posts.herokuapp.com/",
+    "apiEmailDotnetCore": "https://api-email-dotnet-core.herokuapp.com/"
+  }
