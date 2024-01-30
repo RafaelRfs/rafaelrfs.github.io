@@ -1,3 +1,4 @@
 {
-    "production": true
-  }
+    "production": true,
+    "app_backend_url": "https://app-rfs-blog.onrender.com/v1/"
+}
