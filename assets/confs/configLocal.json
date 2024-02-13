@@ -1,4 +1,8 @@
 {
     "production": false,
-    "app_backend_url": "http://localhost:8081/v1/"
+    "app_backend_url": "http://localhost:8081/v1/",
+    "app_title": "Rafael F.S.",
+    "app_description": "Site de Rafael F.S e Projetos",
+    "app_image": "https://localhost:4200/assets/img/bg_st.png",
+    "app_url_site": "http://localhost:4200"
   }
