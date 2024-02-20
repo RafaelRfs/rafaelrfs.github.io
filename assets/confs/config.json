@@ -5,5 +5,5 @@
     "app_description": "Site de Rafael F.S e Projetos",
     "app_image": "https://rafaelrfs.com.br/assets/img/bg_st.png",
     "app_url_site": "https://rafaelrfs.com.br/",
-    "env": "SITE - FTP"
+    "env": "SITE - PRD"
 }
