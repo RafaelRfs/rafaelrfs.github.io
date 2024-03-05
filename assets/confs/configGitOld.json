@@ -1,6 +1,6 @@
 {
     "production": true,
-    "app_backend_url": "https://api.rafaelrfs.com.br:8443/v1/",
+    "app_backend_url": "https://app-rfs-blog.onrender.com/v1/",
     "app_title": "Rafael F.S.",
     "app_description": "Site em Desenvolvimento do engenheiro Rafael F.S e Projetos",
     "app_image": "https://rafaelrfs.github.io/assets/img/bg_st.png",
